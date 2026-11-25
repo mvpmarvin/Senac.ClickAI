@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Senac.ClickAI.csproj" />
+  <Project Path="Tests/Senac.ClickAI.Tests.csproj" />
+</Solution>
