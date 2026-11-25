@@ -14,9 +14,9 @@ A aplicação inicia desligada. O primeiro clique ocorre somente após o primeir
 
 ## Comportamento
 
-- A janela possui uma área central transparente com uma cruz indicadora.
+- A janela possui uma área central transparente ~~com uma cruz indicadora.~~ (Cruz removida por conflitar com o evento do click.)
 - O botão fica verde quando o clicker está ativo.
-- A cruz pisca em vermelho após cada clique.
+~~- A cruz pisca em vermelho após cada clique.~~ (Cruz removida por conflitar com o evento do click.)
 - O botão de fechar encerra a aplicação.
 - Falhas ao posicionar o ponteiro ou enviar o clique interrompem o clicker e exibem uma mensagem.
 
