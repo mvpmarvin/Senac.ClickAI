@@ -7,8 +7,8 @@ Definir os requisitos funcionais, técnicos e de acessibilidade do ClickAI.
 
 - Janela quadrada, opaca, de alto contraste e com espaços reduzidos.
 - Área quadrada central transparente.
-- Duas linhas ortogonais centralizadas para indicar o ponto de clique.
-- Cruz branca em repouso e vermelha durante o feedback de clique.
+~~- Duas linhas ortogonais centralizadas para indicar o ponto de clique.~~
+~~- Cruz branca em repouso e vermelha durante o feedback de clique.~~(Cruz removida por conflitar com o evento do click.)
 - Botão de saída com símbolo de fechar.
 - Botão de ativação com indicação textual do estado.
 - Botão verde quando o clicker estiver ligado.
