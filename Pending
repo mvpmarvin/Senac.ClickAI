@@ -1,0 +1,6 @@
+# MELHORIAS & CORREÇÕES FUTURAS:
+
++ Diminuir tamanho da janela e melhorar a interface.
++ Associar o evento do clique ao`TopMost`.
++ Definir tempo limite de execução.
+++ Adicionar um temporizador para controle de máximo e intervalo.
